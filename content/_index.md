@@ -1,5 +1,5 @@
 +++
-tagline = "Brand Strategist, Digital Designer & Marketer, Creative Director, & Crazy One. "
+tagline = "Brand Strategist, Digital Designer & Marketer, Creative Director, and Crazy One. "
 title = "Allen Djal"
 
 +++
