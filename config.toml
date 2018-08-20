@@ -51,15 +51,3 @@ url = "#"
 [[params.links.list2.link]]
 text = "Dribbble"
 url = "#"
-[[params.links]]
-[params.links.list3]
-heading = "Network"
-[[params.links.list3.link]]
-text = "Link One"
-url = "#"
-[[params.links.list3.link]]
-text = "Link Two"
-url = "#"
-[[params.links.list3.link]]
-text = "Link Three"
-url = "#"
