@@ -10,7 +10,7 @@ author = "Allen Djal"
 description = "Brand Strategist, Digital Designer & Marketer, Creative Director, & Crazy One. "
 favicon = ""
 shareImage = "/uploads/allen-bw-web.jpg"
-twitterHandle = "@allendjal"
+twitterHandle = "allendjal"
 [params.visual.image]
 enable = true
 file = "/uploads/allen-bw-web.jpg"
