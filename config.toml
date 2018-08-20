@@ -23,8 +23,8 @@ mute = true
 [params.links.list1]
 heading = "Connect"
 [[params.links.list1.link]]
-text = "Blog"
-url = "#"
+text = "Email"
+url = "mailto:allen@fullstackdigital.com?subject=Hi%20There!"
 [[params.links.list1.link]]
 text = "Email"
 url = "#"
