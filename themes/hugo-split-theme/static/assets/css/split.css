@@ -216,6 +216,9 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 20px;
   line-height: inherit;
 }
+.split-bio p a {
+    color: rgb(27, 173, 255);
+}
 .split-bio a {
   color: #848d96;
   transition-duration: 0.5s;
