@@ -28,6 +28,11 @@ url = "mailto:allen@fullstackdigital.com?subject=Hi%20There!"
 [[params.links.list1.link]]
 text = "Blog"
 url = "https://blog.fullstackdigital.com/@allendjal"
+[params.links.list2]
+heading = "Social"
+[[params.links.list2.link]]
+text = "Twitter"
+url = "https://twitter.com/allendjal"
 [[params.links]]
 [params.links.list2]
 heading = "Social"
