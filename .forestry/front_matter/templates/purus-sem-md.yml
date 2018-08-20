@@ -1,7 +1,7 @@
 ---
-label: purus-sem.md
-hide_body: 
-is_partial: 
+label: Config Front matter
+hide_body: false
+is_partial: false
 fields:
 - name: author
   label: Author
