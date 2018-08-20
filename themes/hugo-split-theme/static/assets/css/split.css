@@ -231,6 +231,9 @@ body.page-template-page-fullsingle-split p {
   font-style: italic;
   line-height: inherit;
 }
+.split-credit {
+  display: none !important;
+}
 .split-bio strong,
 .split-bio b {
   font-weight: bold;
