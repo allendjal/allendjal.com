@@ -8,12 +8,12 @@ title = "Split - HTML Template Demo"
 [params]
 author = "Allen Djal"
 description = "Brand Strategist, Digital Designer & Marketer, Creative Director, & Crazy One. "
-favicon = "favicon.ico"
-shareImage = "images/social.jpg"
+favicon = ""
+shareImage = "/uploads/allen-bw-web.jpg"
 twitterHandle = "@allendjal"
 [params.visual.image]
 enable = true
-file = "images/background.jpg"
+file = "/uploads/allen-bw-web.jpg"
 position = "center center"
 [params.visual.video]
 enable = false
