@@ -26,8 +26,8 @@ heading = "Connect"
 text = "Email"
 url = "mailto:allen@fullstackdigital.com?subject=Hi%20There!"
 [[params.links.list1.link]]
-text = "Email"
-url = "#"
+text = "Blog"
+url = "https://blog.fullstackdigital.com/@allendjal"
 [[params.links.list1.link]]
 text = "Newsletter"
 url = "#"
