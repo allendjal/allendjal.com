@@ -6,8 +6,7 @@ Template URI: https://onepagelove.com/split
 Description: Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content.
 */
 /* -- CSS Reset -- */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
-@import url("https://fonts.googleapis.com/css?family=Lora");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -113,11 +112,10 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: #000000;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
-  letter-spacing: -0.2px;
   color: #848d96;
   animation: fadein 2s;
 }
@@ -180,9 +178,8 @@ body.page-template-page-fullsingle-split p {
 
 .split-intro {
   font-weight: 600;
-  font-size: 54px;
+  font-size: 48px;
   line-height: 70px;
-  letter-spacing: -2px;
 }
 .split-intro h1 {
   font-weight: 400;
@@ -199,7 +196,7 @@ body.page-template-page-fullsingle-split p {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: "Lora", serif;
+  font-family: 'Lato', sans-serif;
 }
 @media (max-width: 1200px) {
   .split-bio {

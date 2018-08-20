@@ -1,10 +1,10 @@
 baseURL = "/"
 copyright = "&copy;2018 Your Name"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
-googleAnalytics = ""
+googleAnalytics = "UA-80845502-1"
 languageCode = "en-US"
 theme = "hugo-split-theme"
-title = "Split - HTML Template Demo"
+title = "Allen Djal — Brand Strategist, Digital Designer & Marketer, Creative Director, & Crazy One."
 [params]
 author = "Allen Djal"
 description = "Brand Strategist, Digital Designer & Marketer, Creative Director, and Crazy One. "
