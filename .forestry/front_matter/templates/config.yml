@@ -6,3 +6,13 @@ fields:
 - type: file
   label: Image
   name: image
+- type: field_group
+  name: fielld_group
+  label: Fielld Group
+  fields:
+  - type: text
+    name: test
+    label: Test
+  - type: file
+    name: img
+    label: Img
