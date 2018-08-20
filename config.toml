@@ -33,6 +33,12 @@ heading = "Social"
 [[params.links.list2.link]]
 text = "Twitter"
 url = "https://twitter.com/allendjal"
+[[params.links.list2.link]]
+text = "LinkedIn"
+url = "https://www.linkedin.com/in/allendjal/"
+[[params.links.list2.link]]
+text = "Dribbble"
+url = "https://dribbble.com/fullstackdigital"
 [[params.links]]
 [params.links.list2]
 heading = "Social"
