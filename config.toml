@@ -7,7 +7,7 @@ theme = "hugo-split-theme"
 title = "Split - HTML Template Demo"
 [params]
 author = "Allen Djal"
-description = "Brand Strategist, Digital Designer & Marketer, Creative Director, & Crazy One. "
+description = "Brand Strategist, Digital Designer & Marketer, Creative Director, and Crazy One. "
 favicon = ""
 shareImage = "/uploads/allen-bw-web.jpg"
 twitterHandle = "allendjal"
