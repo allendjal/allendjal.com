@@ -136,7 +136,7 @@ body.page-template-page-fullsingle-split p {
     flex-wrap: wrap;
   }
 }
-.fs-split -image {
+.fs-split .split-image {
   width: 50%;
   height: 100vh;
   background-size: cover;
