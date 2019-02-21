@@ -3,9 +3,9 @@ tagline = "Brand Strategist, Digital Designer & Marketer and Creative Director."
 title = "Allen Djal"
 
 +++
-My name is Allen Djal and I'm a design, branding, and marketing creator & leader currently helping to jumpstart [Fullstack Digital](https://fullstackdigital.com/). I've been fortunate to work great brands & teams like [Dell Technologies](https://www.delltechnologies.com/en-us/index.htm), [AWS](https://aws.amazon.com/), [VMware](https://www.vmware.com/), [VAST Data](https://www.vastdata.com/), [DDN Storage](https://www.ddn.com/), [Quantum](https://www.quantum.com/), and more. 
+My name is Allen Djal and I'm a design, branding, and marketing creator & leader currently helping to jumpstart [Fullstack Digital](https://fullstackdigital.com/). I've been fortunate to work great brands & teams like [Dell Technologies](https://www.delltechnologies.com/en-us/index.htm), [AWS](https://aws.amazon.com/), [VMware](https://www.vmware.com/), [VAST Data](https://www.vastdata.com/), [DDN Storage](https://www.ddn.com/), [Quantum](https://www.quantum.com/), and more.
 
-For 10+ years I’ve worked with and/or lead teams that have built, launched and managed over 30 brands ranging from humble startups to powerful enterprises. As a result, I've helped hundreds of forward-thinking companies create better customer experiences for millions of users.
+For 10+ years I’ve worked with/lead teams that have built, launched and managed over 30 brands from humble startups to powerful enterprises. As a result, I've helped hundreds of forward-thinking companies create better customer experiences for millions of users.
 
 My deep understanding of how to accomplish the business needs of both **creative and marketing departments** has enabled me to pioneer a one-of-a-kind body of work.
 
